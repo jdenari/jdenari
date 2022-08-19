@@ -23,6 +23,6 @@
   <a href="https://instagram.com/joaodenari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
-<h2>:computer: Open Source </h3>
+<h2>:computer: Languages </h3>
 
 ![joaodenari top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodenari&layout=compact&theme=buefy)
