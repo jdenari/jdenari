@@ -20,6 +20,10 @@
 <h2>:iphone: Contact </h1>
 <p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-denari-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joao.denaris@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/19805304/jo%c3%a3o-denari" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logoColor=FFF&logo=Stack%20Overflow" alt="Guilherme Stack Overflow (em Português)">
+  </a>
   <a href="https://instagram.com/joaodenari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
