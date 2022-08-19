@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="css3">
 </p>
 
-<h1 align="center">:sleeping: Learning </h1>
+<h1 align="center">:exploding_head: Learning </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python" alt="python">
   <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="javascript">
