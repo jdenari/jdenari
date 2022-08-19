@@ -22,3 +22,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-denari-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/joaodenari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
+<h3 align="center">📈 Contribuições open-source</h3>
+
+![Brcontainer's github stats](https://github-readme-stats.vercel.app/api?username=brcontainer&show_icons=true&theme=buefy)
+![Brcontainer top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcontainer&layout=compact&theme=buefy)
