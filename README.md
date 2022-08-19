@@ -16,13 +16,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="javascript">
 </p>
 
-<h2>:earth_americas: Languages </h1>
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python" alt="python">
-  <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="javascript">
-</p>
-
 <h2>:telephone_receiver: Contact </h1>
 <p>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-denari-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/joaodenari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
