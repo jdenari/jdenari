@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="css3">
   <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="javascript">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logoColor=FFF&logo=Vue.js" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-Nuxt.js-41B883?style=flat-square&logo=nuxtdotjs&logoColor=ffffff" alt="Nuxt">
+  <img src="https://img.shields.io/badge/-nuxt.js-000?style=for-the-badge&logo=nuxt.js" alt="Nuxt">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python" alt="python">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
