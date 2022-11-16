@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <img src="https://img.shields.io/badge/-HTML5-E96228?style=for-the-badge&logoColor=FFF&logo=html5" alt="html5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="css3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap">
   <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="javascript">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logoColor=FFF&logo=Vue.js" alt="Vue.js">
   <img src="https://img.shields.io/badge/-nuxt.js-000?style=for-the-badge&logo=nuxt.js" alt="Nuxt">
