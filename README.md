@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logoColor=FFF&logo=Vue.js" alt="Vue.js">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python" alt="python">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" alt="python">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   
 </p>
 
