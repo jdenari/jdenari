@@ -63,6 +63,7 @@
    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-denari-dos-santos/" target="_blank"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />
    <a href="https://instagram.com/joaodenari" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
  </kbd>
+ </kbd>
 
 <h2>:computer: Languages </h3>
 
