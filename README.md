@@ -1,43 +1,68 @@
 <h1 align="center"> Hi, I'm Joao Denari 👋 </h1>
 
-<h2>⚡ Knowledge </h2>
-<div>
-  <h4> Basic: </h4>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-  <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
+<h2>⚡ Technologies </h2>
 
-  <h4> Frontend: </h4>
-  <img src="https://img.shields.io/badge/-HTML5-E96228?style=for-the-badge&logoColor=FFF&logo=html5" alt="html5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=FFF&logo=css3" alt="css3">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap">
-  <img src="https://img.shields.io/badge/-JavaScript-F2BF22?style=for-the-badge&logoColor=FFF&logo=javascript" alt="javascript">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logoColor=FFF&logo=Vue.js" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-nuxt.js-000?style=for-the-badge&logo=nuxt.js" alt="Nuxt">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-
-  <h4> Backend: </h4>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=FFF&logo=Python" alt="python">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> 
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
- </div>
+<kbd>
+   <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Databases</kbd>
+     <br>
+     <br>
+     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
+     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
+   </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+  </kbd>
 
 <h2>:iphone: Contact </h1>
-<p>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-denari-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joao.denaris@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/19805304/jo%c3%a3o-denari" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logoColor=FFF&logo=Stack%20Overflow" alt="Guilherme Stack Overflow (em Português)">
-  </a>
-  <a href="https://instagram.com/joaodenari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
+
+<kbd>
+   <kbd>Social Network</kbd>
+   <br>
+   <br>
+   <a href="https://stackoverflow.com/users/19805304/jo%c3%a3o-denari" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-denari-dos-santos/" target="_blank"><img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />
+   <a href="https://instagram.com/joaodenari" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+ </kbd>
 
 <h2>:computer: Languages </h3>
 
