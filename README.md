@@ -1,5 +1,12 @@
 <h1 align="center"> Hi, I'm Joao Denari 👋 </h1>
 
+- 👨 Brazilian/Italian, 27 years old
+- 👨‍💻 Engineer looking for a Front-End position
+- 🧗 Slow and easy to make things happen
+- 💞️ I’m passionate about science, technologie and how the brain works as a hobby
+- 🎯 Pesonal Portfolio Website: [Portfolio](https://jdenari.github.io/personal-blog/)
+- 📫 How to reach me Email: joao.denari@hotmail.com
+
 <h2>⚡ Technologies </h2>
 
 <kbd>
