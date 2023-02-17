@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Joao Denari 👋 </h1>
 
-- 👨 Brazilian/Italian, 27 years old
+- 👨 Brazilian and Italian citizenship, 27 years old
 - 👨‍💻 Engineer looking for a Front-End position
 - 🧗 Slow and easy to make things happen
-- 💞️ I’m passionate about astronomy, technologie and neuroscience as a hobby
+- 💞️ I’m passionate about astronomy, cooking and neuroscience as a hobby
 - 🎯 Pesonal Portfolio Website: [Portfolio](https://jdenari.github.io/personal-blog/)
 - 📫 How to reach me Email: joao.denari@hotmail.com
 
