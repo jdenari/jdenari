@@ -75,4 +75,3 @@
 <h2>:computer: Languages </h3>
 
 ![jdenari top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdenari&layout=compact&theme=buefy) 
-![jdenari top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdenari&layout=compact&theme=buefy) 
