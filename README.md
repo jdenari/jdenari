@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Joao Denari 👋 </h1>
 
-- 👨 Brazilian and Italian citizenship, 27 years old
+- 👨 Brazilian and Italian citizenship
 - 👨‍💻 Engineer looking for a Front-End position
 - 🧗 Slow and easy to make things happen
 - 💞️ I’m passionate about astronomy, cooking and neuroscience as a hobby
