@@ -45,6 +45,7 @@
      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
    </kbd>
   <kbd>
+   <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
@@ -59,6 +60,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
   </kbd>
   </kbd>
 
