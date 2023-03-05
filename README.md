@@ -34,6 +34,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Databases</kbd>
