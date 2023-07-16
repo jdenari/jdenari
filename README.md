@@ -2,8 +2,7 @@
 
 - 👨 Brazilian and Italian citizenship
 - 👨‍💻 Engineer looking for a Front-End position
-- 🧗 Slow and easy to make things happen
-- 💞️ I’m passionate about astronomy, cooking and neuroscience as a hobby
+- 💞️ I’m passionate about astronomy and cooking
 - 🎯 Pesonal Portfolio Website: [Portfolio](https://jdenari.github.io/personal-blog/)
 - 📫 How to reach me Email: joao.denari@hotmail.com
 
